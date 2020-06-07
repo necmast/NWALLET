@@ -8379,6 +8379,10 @@ redux-logger@^3.0.6:
   dependencies:
     deep-diff "^0.3.5"
 
+redux-test-utils@^0.1.3:
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/redux-test-utils/-/redux-test-utils-0.1.3.tgz#0d89100f100f86c7c7214976eaece88e7e45bf74"
+
 redux-thunk@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/redux-thunk/-/redux-thunk-2.2.0.tgz#e615a16e16b47a19a515766133d1e3e99b7852e5"
@@ -10377,8 +10381,8 @@ websocket-driver@>=0.3.6:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.2.tgz#0e18781de629a18308ce1481650f67ffa2693a5d"
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
 
 whatwg-encoding@^1.0.1:
   version "1.0.1"
